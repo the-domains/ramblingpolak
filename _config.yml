@@ -1,0 +1,14 @@
+layout_spectrum: 0.9696012565400451
+typography_spectrum: 0.7524245127569884
+color:
+  brandStrength: 0.2350751208141446
+  lightness: 0.36847657803446054
+  saturation: 0.5650368509814143
+  rhythmicContrast: 0.6456268809270114
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+name: ramblingpolak
