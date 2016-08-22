@@ -1,4 +1,3 @@
-layout_spectrum: 0.9696012565400451
 typography_spectrum: 0.7524245127569884
 color:
   brandStrength: 0.2350751208141446
@@ -11,4 +10,9 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
+layout_spectrum: 0.9696012565400451
+author:
+  name: ''
 name: ramblingpolak
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f298af4-71a1-40b4-9a6c-42f93eb2aa20.png
