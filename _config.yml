@@ -1,16 +1,16 @@
-typography_spectrum: 0.7524245127569884
+layout_spectrum: 0.5032250143121928
+typography_spectrum: 0.2055418943054974
 color:
-  brandStrength: 0.2350751208141446
-  lightness: 0.36847657803446054
-  saturation: 0.5650368509814143
-  rhythmicContrast: 0.6456268809270114
+  brandStrength: 0.950525687308982
+  lightness: 0.8554601452779025
+  saturation: 0.0879492717795074
+  rhythmicContrast: 0.7286786788608879
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
-layout_spectrum: 0.9696012565400451
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 author:
   name: ''
 name: ramblingpolak
